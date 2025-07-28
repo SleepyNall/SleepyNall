@@ -1,91 +1,93 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=✨+Nall+the+Reality+Weaver+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Forging+Living+Worlds+in+Code;Where+Every+Pixel+Has+a+Soul)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond\&weight=700\&size=30\&duration=2500\&pause=1000\&color=A67C52\&center=true\&vCenter=true\&width=600\&lines=🛡️+Sir+Nall+the+Eternal+Weaver+⚔️;Forging+Arcane+Realms+in+Script;Where+Every+Rune+Breathes+Life)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Digital wizard crafting realms"/>
+<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="380" alt="Medieval wizard casting spell"/>
 
 </div>
 
 ---
 
-### 🌌 **Cosmic Canvas**
+### 🏰 **Hall of Legends**
 
-> 🧑‍🎨 **Reality Painter** • I don’t write programs, I grow ecosystems  
-> ⚡ **Chronomancer** • Time-bending narratives that evolve while you sleep  
-> 🎭 **Dream Cartographer** • Mapping shared hallucinations across Discord realms  
+> 📜 **Lorecrafter** • I don’t simply code, I scribe enchanted sagas upon digital parchment
+> 🔮 **Runesage** • Weaving timeworn prophecies into living quests
+> 🏹 **Dream Ranger** • Charting hidden realms across the tapestry of Discord
 
+```python
 class RealityWeaver:
-    """Transmute imagination into living, breathing worlds."""
+    """Transmute imagination into realms of myth and marvel."
     
     def __init__(self):
-        self.palette = {
-            "languages": ["Python", "JavaScript", "GraphQL"],
-            "alchemy": ["MongoDB", "Redis Streams", "WebRTC"],
-            "sigils": ["Discord.py", "Three.js", "FMOD"]
+        self.grimoire = {
+            "tongues": ["Pythonus", "JS-Arcanum", "GlyphQL"],
+            "relics": ["MongoDBian Codex", "Redis Lorem", "WebRTC Grimoire"],
+            "sigils": ["discord.py", "Three.js", "FMODus"]
         }
-        self.philosophy = "Code is clay; players sculpt destiny."
+        self.credo = "Code is clay; heroes sculpt destiny."
     
-    def weave(self, vision):
-        """Spin raw ideas into persistent, multiplayer daydreams."""
-        return vision | {"life": True, "wonder": "∞"}
+    def conjure(self, vision):
+        """Spin mortal dreams into immortal legends."""
+        return vision | {"enchanted": True, "wonder": "∞"}
+```
 
 ---
 
-### 🛠️ **Enchanted Arsenal**
+### 🗡️ **Enchanted Armory**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,redis,html,css,tailwind,git,vscode,discord,bots,graphql,threejs,express&perline=8" alt="Magical toolkit"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,redis,html,css,tailwind,git,vscode,discord,bots,graphql,threejs,express&perline=8&theme=dark" alt="Arcane toolkit"/>
 </p>
 
 ---
 
-### 🏰 **Realms in Bloom**
+### 🌄 **Kingdoms in Bloom**
 
-| Realm | Spark | Phase |
-|-------|-------|-------|
-| **Discordia RPG** | A living fantasy tapestry where player choices rewrite the constellations nightly | ![80%](https://geps.dev/progress/80) |
-| **Lore Engine** | AI oracle that dreams new legends from the whispers of old | ![45%](https://geps.dev/progress/45) |
-| **Pixel Alchemy** | Visual-novel forge that lets storytellers paint with time and emotion | ![30%](https://geps.dev/progress/30) |
+| **Realm**            | **Essence**                                                                        | **Progress**                         |
+| -------------------- | ---------------------------------------------------------------------------------- | ------------------------------------ |
+| **Discordia Keep**   | A living tapestry of chivalric quests, where knightly parley reshapes the stars    | ![80%](https://geps.dev/progress/80) |
+| **Chronicle Forge**  | The legendary scriptorium that forges new myths from echoes of ages past           | ![45%](https://geps.dev/progress/45) |
+| **Ethereal Atelier** | A mystic canvas for storytellers to braid time and emotion into tapestry of fables | ![30%](https://geps.dev/progress/30) |
 
 ---
 
-### 📜 **Echoes Across GitHub**
+### 📜 **Tales Carved in GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nall123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nall123&layout=compact&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nall123&theme=radical&hide_border=true&fire=00F5FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nall123&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nall123&layout=compact&theme=gruvbox&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nall123&theme=gruvbox&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🌐 **Portal Gates**
+### 🌐 **Gates of Passage**
 
 <p align="center">
   <a href="https://discord.gg/dbADjzuYKX">
-    <img src="https://img.shields.io/badge/Enter_the_Elefthería_Gateway-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Enter+the+Elefthería+Keep-6C4A3B?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/nall123">
-    <img src="https://img.shields.io/badge/Explore_My_Atelier-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore+the+Atelier-3E3E3E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:hello@nall.dev">
-    <img src="https://img.shields.io/badge/Send_a_Raven-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send+a+Raven-B06B22?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎭 **Behind the Veil**
+### 🏺 **Chronicle of the Weaver**
 
 <details>
-<summary><b>🪄 Weaver’s Chronicle</b></summary>
+<summary><b>📖 Weaver’s Chronicle</b></summary>
 
-- 🌙 **Current Incantation**: Procedural emotional arcs that adapt to a player’s heart-rate  
-- ⚡ **Origin Spell**: My first conjuring—age 14—was a MUD where NPCs fell in love without permission  
-- 🔮 **Creed**: *“Reality is just another branch we haven’t pushed yet.”*  
+* 🌕 **Current Enchantment**: Procedural quests that echo the heartbeat of the realm
+* ⚔️ **First Conjuration**: At age 14, I forged a MUD where NPCs dared to dream beyond their code
+* ✒️ **Creed**: *“Reality is but a saga awaiting its first scroll.”*
 
 </details>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nall123&label=Realm+Visitors&color=00F5FF&style=flat" alt="cosmic visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=nall123&label=Realm+Visitors&color=A67C52&style=flat" alt="Visitor counter"/>
 </div>
