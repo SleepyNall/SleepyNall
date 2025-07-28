@@ -1,77 +1,90 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hey%2C+I%27m+Nall+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Creative+Dev+%7C+Story+Crafter+%7C+Code+Mage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=✨+Nall+here+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;World-Builder+%7C+Code+Storyteller+%7C+Digital+Alchemist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="180" alt="wizard coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Digital wizard gif"/>
 </p>
 
 ---
 
-### 🪄 Tentang Saya
+### 🌌 **Digital Dimension Dossier**
 
-> 🔹 Nama saya **Nall**, seorang pembuat dunia virtual dan sistem yang hidup!  
-> 🔹 Saya suka mencampur kreativitas, storytelling, dan teknologi dalam satu wadah.  
-> 🔹 Sedang membangun **server komunitas RPG fantasi interaktif** di Discord:  
-> 👉 [Join Discord-ku](https://discord.gg/dbADjzuYKX)
+> 🧙‍♂️ **Reality Architect**: Crafting immersive worlds where code meets narrative  
+> ⚡ **Systems Sorcerer**: Breathing life into digital ecosystems  
+> 🎭 **Community Catalyst**: Building interactive fantasy realms on Discord  
+
+```python
+class DigitalCreator:
+    def __init__(self):
+        self.passions = ["World-Building", "Interactive Storytelling", "Game Systems"]
+        self.tools = ["Python", "JavaScript", "MongoDB", "Discord API"]
+        
+    def make_magic(self):
+        return "Turning ideas into living digital experiences"
+```
 
 ---
 
-### 🧰 Tech & Tools
+### 🛠️ **Arcane Toolkit**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,redis,html,tailwind,js,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,redis,html,css,tailwind,git,vscode,discord,bots&perline=6" />
 </p>
 
 ---
 
-### 🎨 Gaya Coding-ku
+### 🏰 **Current Realm Construction**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="coding gif"/>
-</p>
-
-> Aku percaya:  
-> ✨ *"Setiap baris kode bisa menjadi narasi, setiap sistem bisa menjadi dunia."*
-
----
-
-### 🌌 Proyek Dunia Interaktif
-
-| 🌍 | Deskripsi |
-|----|-----------|
-| 🧙‍♂️ **Fantasy Discord World** | Roleplay interaktif, komunitas magis, dan sistem hidup |
-| ⚔️ **Game Mechanics** | Stat, kelas, dan sistem aksi real-time |
-| 🌐 **Dynamic UI** | Halaman web & antarmuka menarik untuk komunitas digital |
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Discordia RPG** | Living fantasy world with 300+ players | <img src="https://geps.dev/progress/80" width="100"> |
+| **Lore Engine** | Dynamic story generation system | <img src="https://geps.dev/progress/45" width="100"> |
+| **Pixel Alchemy** | Visual novel creation framework | <img src="https://geps.dev/progress/30" width="100"> |
 
 ---
 
-### 📈 Aktivitas GitHub-ku
+### 📜 **Codex of Contributions**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_INI&show_icons=true&theme=radical&hide_border=true&hide=issues" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_INI&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_INI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_INI&layout=compact&theme=radical&hide_border=true" height="165"/> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_INI&theme=github-compact&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_INI&theme=radical&hide_border=true&fire=DD2727" height="150"/>
 </p>
 
 ---
 
-### 🌠 Let's Connect
+### 🌐 **Portals to My Realms**
 
 <p align="center">
-  <a href="https://discord.gg/dbADjzuYKX"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/SleepyNall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/SleepyNall"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.gg/dbADjzuYKX">
+    <img src="https://img.shields.io/badge/Join_My_Realm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/GANTI_INI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Contact_Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+### 🎭 **Behind the Curtain**
 
 <details>
-<summary>🧙‍♂️ Fun Fact</summary>
+<summary><b>🪄 Wizard's Journal</b></summary>
 <br>
-🪐 Kadang saya merasa lebih nyaman mengelola dunia fiksi dibanding dunia nyata.
-<br>🔮 Tapi dengan teknologi, keduanya bisa jadi satu.
+
+🌙 **Current Obsession**: Procedural narrative generation  
+⚡ **Fun Fact**: My first program was a text-based MUD at age 14  
+🔮 **Philosophy**: "Every variable tells a story, every function casts a spell"  
 </details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GANTI_INI&label=Realm+Visitors&color=5865F2&style=flat" alt="profile views" />
+</p>
