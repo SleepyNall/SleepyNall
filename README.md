@@ -1,60 +1,77 @@
-<h1 align="center">✨ Hello, I'm Nall! ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hey%2C+I%27m+Nall+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Creative+Dev+%7C+Story+Crafter+%7C+Code+Mage" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  🧙‍♂️ Creative Dev • 🎮 RPG Designer • 💻 Code Alchemist
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="180" alt="wizard coding gif"/>
 </p>
 
 ---
 
-### 🌟 About Me
+### 🪄 Tentang Saya
 
-Hi there! I'm **Nall**, a passionate developer who loves mixing imagination with code. Whether it’s crafting a magical Discord bot, designing fantasy game systems, or experimenting with creative UI — I bring stories to life with tech.
-
-I focus on:
-- 🔮 **Discord Bots** (RPG Systems, Club Management, Realtime Battle)
-- ⚔️ **Game Mechanics** (Class, Race, Skill Trees, Attributes)
-- 🧩 **MongoDB + Redis** Integration
-- 🌐 **Frontend Fun** with HTML, TailwindCSS, and JS
-- 🔄 **Realtime Systems** (Combat Logs, Online Status, Dynamic Events)
+> 🔹 Nama saya **Nall**, seorang pembuat dunia virtual dan sistem yang hidup!  
+> 🔹 Saya suka mencampur kreativitas, storytelling, dan teknologi dalam satu wadah.  
+> 🔹 Sedang membangun **server komunitas RPG fantasi interaktif** di Discord:  
+> 👉 [Join Discord-ku](https://discord.gg/dbADjzuYKX)
 
 ---
 
-### 🧰 Tech Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-### 📦 Featured Projects
-
-| 🚀 Project | 🔍 Deskripsi Singkat |
-|-----------|----------------------|
-| `/portal` System | Sistem teleportasi berbasis role, biaya, dan jarak di Discord RPG |
-| Dynamic UI Emotes | UI Roblox dengan tombol aksi seperti duduk, tidur, dsb |
-| RPG Item Viewer | Command `/view` untuk semua class, item, skill, dan rank |
-| Real-time Battle | Sistem pertarungan real-time menggunakan Redis + MongoDB |
-
----
-
-### 📊 GitHub Stats
+### 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GANTI_INI]&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[GANTI_INI]&theme=tokyonight" width="49%" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,redis,html,tailwind,js,vscode&theme=light" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 🎨 Gaya Coding-ku
 
-- 🐦 [Twitter](https://twitter.com/[GANTI_INI])
-- 💼 [LinkedIn](https://www.linkedin.com/in/[GANTI_INI])
-- 🌐 [Website / Portfolio](https://[GANTI_INI].github.io)
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="coding gif"/>
+</p>
+
+> Aku percaya:  
+> ✨ *"Setiap baris kode bisa menjadi narasi, setiap sistem bisa menjadi dunia."*
 
 ---
 
-> “Code like a wizard, dream like an adventurer.” 🪄
+### 🌌 Proyek Dunia Interaktif
+
+| 🌍 | Deskripsi |
+|----|-----------|
+| 🧙‍♂️ **Fantasy Discord World** | Roleplay interaktif, komunitas magis, dan sistem hidup |
+| ⚔️ **Game Mechanics** | Stat, kelas, dan sistem aksi real-time |
+| 🌐 **Dynamic UI** | Halaman web & antarmuka menarik untuk komunitas digital |
+
+---
+
+### 📈 Aktivitas GitHub-ku
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_INI&show_icons=true&theme=radical&hide_border=true&hide=issues" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_INI&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_INI&theme=github-compact&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🌠 Let's Connect
+
+<p align="center">
+  <a href="https://discord.gg/dbADjzuYKX"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/SleepyNall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/SleepyNall"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<details>
+<summary>🧙‍♂️ Fun Fact</summary>
+<br>
+🪐 Kadang saya merasa lebih nyaman mengelola dunia fiksi dibanding dunia nyata.
+<br>🔮 Tapi dengan teknologi, keduanya bisa jadi satu.
+</details>
