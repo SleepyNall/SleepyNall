@@ -14,7 +14,6 @@
 > ⚡ **Chronomancer** • Time-bending narratives that evolve while you sleep  
 > 🎭 **Dream Cartographer** • Mapping shared hallucinations across Discord realms  
 
-```python
 class RealityWeaver:
     """Transmute imagination into living, breathing worlds."""
     
@@ -29,7 +28,6 @@ class RealityWeaver:
     def weave(self, vision):
         """Spin raw ideas into persistent, multiplayer daydreams."""
         return vision | {"life": True, "wonder": "∞"}
-```
 
 ---
 
