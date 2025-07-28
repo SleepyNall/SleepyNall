@@ -1,90 +1,93 @@
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=✨+Nall+here+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;World-Builder+%7C+Code+Storyteller+%7C+Digital+Alchemist" alt="Typing SVG" />
-</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=✨+Nall+the+Reality+Weaver+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Forging+Living+Worlds+in+Code;Where+Every+Pixel+Has+a+Soul)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Digital wizard gif"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Digital wizard crafting realms"/>
+
+</div>
 
 ---
 
-### 🌌 **Digital Dimension Dossier**
+### 🌌 **Cosmic Canvas**
 
-> 🧙‍♂️ **Reality Architect**: Crafting immersive worlds where code meets narrative  
-> ⚡ **Systems Sorcerer**: Breathing life into digital ecosystems  
-> 🎭 **Community Catalyst**: Building interactive fantasy realms on Discord  
+> 🧑‍🎨 **Reality Painter** • I don’t write programs, I grow ecosystems  
+> ⚡ **Chronomancer** • Time-bending narratives that evolve while you sleep  
+> 🎭 **Dream Cartographer** • Mapping shared hallucinations across Discord realms  
 
 ```python
-class DigitalCreator:
+class RealityWeaver:
+    """Transmute imagination into living, breathing worlds."""
+    
     def __init__(self):
-        self.passions = ["World-Building", "Interactive Storytelling", "Game Systems"]
-        self.tools = ["Python", "JavaScript", "MongoDB", "Discord API"]
-        
-    def make_magic(self):
-        return "Turning ideas into living digital experiences"
+        self.palette = {
+            "languages": ["Python", "JavaScript", "GraphQL"],
+            "alchemy": ["MongoDB", "Redis Streams", "WebRTC"],
+            "sigils": ["Discord.py", "Three.js", "FMOD"]
+        }
+        self.philosophy = "Code is clay; players sculpt destiny."
+    
+    def weave(self, vision):
+        """Spin raw ideas into persistent, multiplayer daydreams."""
+        return vision | {"life": True, "wonder": "∞"}
 ```
 
 ---
 
-### 🛠️ **Arcane Toolkit**
+### 🛠️ **Enchanted Arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,redis,html,css,tailwind,git,vscode,discord,bots&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,redis,html,css,tailwind,git,vscode,discord,bots,graphql,threejs,express&perline=8" alt="Magical toolkit"/>
 </p>
 
 ---
 
-### 🏰 **Current Realm Construction**
+### 🏰 **Realms in Bloom**
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Discordia RPG** | Living fantasy world with 300+ players | <img src="https://geps.dev/progress/80" width="100"> |
-| **Lore Engine** | Dynamic story generation system | <img src="https://geps.dev/progress/45" width="100"> |
-| **Pixel Alchemy** | Visual novel creation framework | <img src="https://geps.dev/progress/30" width="100"> |
+| Realm | Spark | Phase |
+|-------|-------|-------|
+| **Discordia RPG** | A living fantasy tapestry where player choices rewrite the constellations nightly | ![80%](https://geps.dev/progress/80) |
+| **Lore Engine** | AI oracle that dreams new legends from the whispers of old | ![45%](https://geps.dev/progress/45) |
+| **Pixel Alchemy** | Visual-novel forge that lets storytellers paint with time and emotion | ![30%](https://geps.dev/progress/30) |
 
 ---
 
-### 📜 **Codex of Contributions**
+### 📜 **Echoes Across GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_INI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_INI&layout=compact&theme=radical&hide_border=true" height="165"/> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_INI&theme=radical&hide_border=true&fire=DD2727" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nall123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nall123&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nall123&theme=radical&hide_border=true&fire=00F5FF" height="160"/>
 </p>
 
 ---
 
-### 🌐 **Portals to My Realms**
+### 🌐 **Portal Gates**
 
 <p align="center">
   <a href="https://discord.gg/dbADjzuYKX">
-    <img src="https://img.shields.io/badge/Join_My_Realm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Enter_the_Elefthería_Gateway-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/GANTI_INI">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/nall123">
+    <img src="https://img.shields.io/badge/Explore_My_Atelier-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Contact_Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hello@nall.dev">
+    <img src="https://img.shields.io/badge/Send_a_Raven-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎭 **Behind the Curtain**
+### 🎭 **Behind the Veil**
 
 <details>
-<summary><b>🪄 Wizard's Journal</b></summary>
-<br>
+<summary><b>🪄 Weaver’s Chronicle</b></summary>
 
-🌙 **Current Obsession**: Procedural narrative generation  
-⚡ **Fun Fact**: My first program was a text-based MUD at age 14  
-🔮 **Philosophy**: "Every variable tells a story, every function casts a spell"  
+- 🌙 **Current Incantation**: Procedural emotional arcs that adapt to a player’s heart-rate  
+- ⚡ **Origin Spell**: My first conjuring—age 14—was a MUD where NPCs fell in love without permission  
+- 🔮 **Creed**: *“Reality is just another branch we haven’t pushed yet.”*  
+
 </details>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GANTI_INI&label=Realm+Visitors&color=5865F2&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nall123&label=Realm+Visitors&color=00F5FF&style=flat" alt="cosmic visitor counter"/>
+</div>
