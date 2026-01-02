@@ -18,7 +18,7 @@ I'm a developer who enjoys building systems, tools, and interactive experiences.
   <img src="https://skillicons.dev/icons?i=python,js,rust,lua,nodejs,mongodb,redis,html,css,tailwind,git,vscode,discord,graphql,threejs,express&perline=8&theme=dark" />
 </p>
 
-* ** Fav Languages**: Python, JavaScript, Rust, Go
+* **Languages**: Python, JavaScript, Rust, Go
 * **Backend**: Node.js, Express
 * **Databases**: MongoDB, Redis
 * **Web**: HTML, CSS, Tailwind
